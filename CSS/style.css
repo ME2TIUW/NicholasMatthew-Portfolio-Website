@@ -508,6 +508,7 @@ small {
     flex-direction: column;
     justify-content: space-around;
     gap: 1.7rem;
+    margin-top: 2rem;
   }
 
   .heading-img {
