@@ -1,0 +1,18 @@
+/* EXTRA QUERIES */
+@media (max-width: 1220px) {
+  .link-wrapper {
+    max-width: 60%;
+  }
+}
+
+@media (max-width: 600px) {
+  .link-wrapper {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 4250px) {
+  .link-wrapper {
+    max-width: 100%;
+  }
+}
